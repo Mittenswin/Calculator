@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(1, 1, 76);
+}
+
+h1 {
+    color: White;
+    position: absolute;
+    top:-10px;
+    left:220px;
+}
+
+#calculator {
+    background-color: rgb(129, 23, 11);
+    background:linear-gradient(#06d9d2, #4d22e6);
+    border: 5px solid #fff;
+    border-image: linear-gradient(-45deg, #0b3c3b, #4d22e6) 1;
+    position: absolute;
+    width:505px;
+    height:450px;
+    top: 50px;
+    left:70px;
+}
+
+#button0 {
+    position: relative;
+    top:0px;
+    left:20px;
+    height: 50px;
+    width:50px;
+}
+
+#button1 {
+    position: relative;
+    top:0px;
+    left:20px;
+    height: 50px;
+    width:50px;
+}
+
+#button2 {
+    position: relative;
+    top:0px;
+    left:20px;
+    height: 50px;
+    width:50px;
+}
+
+#button3 {
+    position: relative;
+    top:70px;
+    left:-143px;
+    height: 50px;
+    width:50px;
+}
+
+#button4 {
+    position: relative;
+    top:70px;
+    left:-143px;
+    height: 50px;
+    width:50px;
+}
+
+#button5 {
+    position: relative;
+    top:70px;
+    left:-143px;
+    height: 50px;
+    width:50px;
+}
+
+#button6 {
+    position: relative;
+    top:140px;
+    left:-305px;
+    height: 50px;
+    width:50px;
+}
+
+#button7 {
+    position: relative;
+    top:140px;
+    left:-305px;
+    height: 50px;
+    width:50px;
+}
+
+#button8 {
+    position: relative;
+    top:140px;
+    left:-305px;
+    height: 50px;
+    width:50px;
+}
+
+#button9 {
+    position: relative;
+    top:170px;
+    left:20px;
+    height: 50px;
+    width:50px;
+}
+
+#resultat {
+    background-color: bisque;
+        position: relative;
+        border: 4mm ridge black;
+        top:-20px;
+        left:2px;
+        height: 50px;
+        width:473px;
+        font-size: 35px;
+}
+
+div#operation {
+    position:relative;
+    left:245px;
+    top:-50px;
+}
+
+.operation {
+    height: 50px;
+    width: 50px;
+    background-color:azure;
+    font-size:20px;
+}
+
+#res {
+    position:absolute;
+    top:270px;
+    left:250px;
+    width:200px; 
+    height:75px;
+    font-size: 40px;
+}
+
+#rm {
+    position:relative;
+    top:-190px;
+    left:250px;
+    width:200px; 
+    height:75px;
+    font-size: 40px;
+}
+
+input:hover {
+    background-color: yellow;
+}
