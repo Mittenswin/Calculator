@@ -1,4 +1,4 @@
-# 🧮 Calculatrice Web Haute Précision
+# 🧮 Calculatrice Web
 
 Un petit projet personnel où j’ai développé une **calculatrice web** capable d’effectuer les 4 opérations de base (`+`, `-`, `*`, `/`) avec une **précision supérieure à 10⁻²⁰** en JavaScript.
 
